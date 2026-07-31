@@ -7,7 +7,7 @@ Desenvolvedor Full Stack
 
 
 🚀 Linguagens e Tecnologias <br>
-<img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mysql" />
+<img src="https://skillicons.dev/icons?i=py,js,nodejs,express,sql" />
 
 
 📊 Estatísticas <br>

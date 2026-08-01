@@ -59,3 +59,20 @@ Atualmente curso **Sistemas de Informação** na **UFRPE** e desenvolvo projetos
 
 <br>
 <br>
+
+<div align="center">
+  
+# 📊 Estatísticas
+
+  <img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=ArthurTeix&show_icons=true&theme=tokyonight"
+  />
+  
+  <img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurTeix&layout=compact&theme=tokyonight"
+  />
+  
+<br>
+<br>

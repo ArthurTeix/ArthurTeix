@@ -9,5 +9,53 @@ Atualmente curso **Sistemas de Informação** na **UFRPE** e desenvolvo projetos
 
 <!-- GIF -->
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
 </div>
+
+
+---
+
+# 🚀 Tecnologias
+  <img 
+  align='left'
+  style='padding-right: 10px;'
+  width='40px'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />   
+  
+  <img
+  align='left'
+  style='padding-right: 10px;'
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+  
+  <img
+  align='left'
+  style='padding-right: 10px;'
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  />
+  
+  <img
+  align='left'
+  style='padding-right: 10px;'
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+  />
+  
+  <img
+  align='left'
+  style='padding-right: 10px;'
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+  />
+  
+  <img
+  align='left'
+  style='padding-right: 10px;'
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+
+<br>
+<br>

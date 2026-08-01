@@ -3,7 +3,6 @@
 
 
 <div align="center">
-Apaixonado por tecnologia e desenvolvimento de software.
 
 Atualmente curso **Sistemas de Informação** na **UFRPE** e desenvolvo projetos utilizando JavaScript, Node.js, Express, Python e MongoDB, buscando criar aplicações modernas, organizadas e escaláveis.
 

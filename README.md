@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Linguagens e Tecnologias
   <img 
   align='left'
   style='padding-right: 10px;'
@@ -46,22 +46,3 @@
 
 <br>
 <br>
-
-<div align="center">
-  
-# 📊 Estatísticas
-
-  <img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api?username=ArthurTeix&show_icons=true&theme=tokyonight"
-  />
-  
-  <img
-  height="170"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArthurTeix&layout=compact&theme=tokyonight"
-  />
-  
-<br>
-<br>
-
-</div>

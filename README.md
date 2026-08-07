@@ -5,6 +5,7 @@
 <div align="center">
 
 :)
+</div>
 
 ---
 
@@ -43,6 +44,5 @@
   width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
-
 <br>
 <br>

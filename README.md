@@ -3,7 +3,8 @@
 
 
 <div align="left">
-Sou estudante de 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂çã𝒐 na 𝑼𝑭𝑹𝑷𝑬 e desenvolvedor em formação, apaixonado por tecnologia e pelo processo de transformar ideias em soluções.
+Sou estudante de 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒅𝒆 𝑰𝒏𝒇𝒐𝒓𝒎𝒂çã𝒐 na 𝑼𝑭𝑹𝑷𝑬, formado no curso técnico de 𝑨𝒏á𝒍𝒊𝒔𝒆 𝒆 𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒊𝒎𝒆𝒏𝒕𝒐 𝒅𝒆 𝑺𝒊𝒔𝒕𝒆𝒎𝒂𝒔 pelo 𝑺𝑬𝑵𝑨𝑰-𝑷𝑬
+ e desenvolvedor em formação, apaixonado por tecnologia e pelo processo de transformar ideias em soluções.
 
 Atualmente, estou aprofundando meus conhecimentos em React e SQL, fortalecendo minha base teórica e colocando meus conhecimentos em prática por meio de projetos.
 

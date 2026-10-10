@@ -12,47 +12,8 @@ Atualmente, estou aprofundando meus conhecimentos em React e SQL, fortalecendo m
 
 ---
 
-# 🚀 Linguagens e Tecnologias
-  <img 
-  align='left'
-  style='padding-right: 10px;'
-  width='40px'
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />   
-
-  <img
-  align='left'
-  style='padding-right: 10px;'
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-  
-  <img
-  align='left'
-  style='padding-right: 10px;'
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-  />
-  
-  <img
-  align='left'
-  style='padding-right: 10px;'
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-  />
-  
-  <img
-  align='left'
-  style='padding-right: 10px;'
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-  />
-  
-  <img
-  align='left'
-  style='padding-right: 10px;'
-  width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
+#  🚀 Linguagens e Tecnologias
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,git,react,mysql,mongodb,express,sequelize" />
 <br>
 <br>

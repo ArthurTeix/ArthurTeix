@@ -14,6 +14,6 @@ Atualmente, estou aprofundando meus conhecimentos em React e SQL, fortalecendo m
 
 #  🚀 Linguagens e Tecnologias
 <p align="left">
- <img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,git,react,mysql,mongodb,express,sequelize" />
+ <img src="https://skillicons.dev/icons?i=python,js,ts,react,mysql,mongodb,nodejs,express,sequelize" />
 <br>
 <br>
